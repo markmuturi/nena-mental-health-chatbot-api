@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Mathari National Teaching & Referral Hospital",
+        "ownership": "Public (National)",
+        "facility-level": "Level 6 (Specialized)",
+        "county": "Nairobi",
+        "location": "Muthaiga, along Thika SuperHighway",
+        "address": "P.O. Box 40663, Nairobi",
+        "phonenumbers": ["0740253470", "0102067354"],
+        "email": "mathari@health.go.ke"
+    },
+
+    {
+        "name": "Kenyatta National Hospital - Mental Health Department",
+        "ownership":"Public (National)",
+        "facility-level":"Level 6 (National Referral)",
+        "county": "Nairobi",
+        "location": "Uppe Hill / Hospital Road",
+        "address": "P.O. Box 20723-00202 Nairobi",
+        "phonenumbers": "+254 20 2726300",
+        "email": "knhadmin@knh.or.ke"
+    },
+
+    {
+        "name": "Moi Teaching & Referral Hospital - Mental Health Department",
+        "ownership": "Public (National)",
+        "facility-level": "Level 6 (National Referral)",
+        "county": "Uasin Gishu",
+        "location": "Eldoret, Nandi Road",
+        "address": "P.O. Box 3-30100, Eldoret, Kenya.",
+        "phonenumbers": "0701790434",
+        "email": "hodmentalhealth@mu.ac.ke"
+    },
+
+    {
+        "name": "Kenyatta University Teaching, Referral & Research Hospital (KUTRRH) - Mental Health Services",
+        "ownership": "Public (National)",
+        "facility-level": "Level 6 (National Referral)",
+        "county": "Kiambu",
+        "location": "Along Eastern Bypass",
+        "address": "P.O Box 7674-00100, GPO Nairobi",
+        "phonenumbers": [1558, "+254 800 721 038", "+254 111 138 000"],
+        "email": "info@kutrrh.go.ke"
+    },
+
+    {
+        "name": "Jaramogi Oginga Odinga Teaching & Referral Hospital - Mental Health & Rehabilitative Services",
+        "ownership":"Public (County/National Teaching)",
+        "facility-level": "Level 5 (Teaching & Referral)",
+        "county": "Kisumu",
+        "location": "Along Kisumu-Kakamega Road",
+        "address": "P.O. Box 849-40100 Kisumu",
+        "phonenumbers": ["057-2020801 / 2020803", "0733888579", "0736662522"],
+        "email": ["info@jootrh.go.ke", "medsuptnpgh@yahoo.com", "ceo@jootrh.go.ke"]
+    },
+
+    {
+        "name": "Coast General Teaching & Referral Hospital - Psychiatry",
+        "ownership": "Public (County/National Teaching)",
+        "facility-level": "Level 5 (Teaching & Referral)",
+        "county": "Mombasa",
+        "location": "Kisauni Rd., Tononoka",
+        "address": "P.O. Box 90231-80100, Mombasa",
+        "phonenumbers": "+254 785 722001",
+        "email": "info@cgtrh.go.ke"
+    }
+]
