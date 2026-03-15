@@ -3,6 +3,8 @@ const bodyParser = require('body-parser');
 const { MessagingResponse } = require('twilio').twiml;
 const dialogflow = require('@google-cloud/dialogflow');
 
+require('dotenv').config();
+
 const app = express();
 app.use(bodyParser.urlencoded({ extended: false }));
 
@@ -45,7 +47,7 @@ app.post('/webhook', async (req, res) => {
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Server listening on port ${port}`));
 
-document.addEventListener("DOMContentLoaded", () => {
+/* document.addEventListener("DOMContentLoaded", () => {
   const toggle = document.getElementById("menu-toggle");
   const menu = document.getElementById("menu");
 
@@ -53,4 +55,4 @@ document.addEventListener("DOMContentLoaded", () => {
     menu.classList.toggle("show");
     console.log("Menu toggled:", menu.classList.contains("show"));
   });
-});
+}); */
